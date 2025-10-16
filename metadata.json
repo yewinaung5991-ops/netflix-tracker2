@@ -1,0 +1,5 @@
+{
+  "name": "Netflix Subscription Manager",
+  "description": "An application to manage shared Netflix subscriptions, track customers, payments, and assigned Netflix accounts, inspired by a Google Sheets and AppSheet workflow.",
+  "requestFramePermissions": []
+}
